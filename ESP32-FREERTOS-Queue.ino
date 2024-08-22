@@ -3,7 +3,7 @@
 //C embedded programming 
 //Concordia University Montreal, Canada 2020-2021
 //FREERTOS ESP32 Queue sample code
-//Use only core 1 for demo purpases    ****to use both cores and have more threads look at my git****
+//Use only core 1 for demo purposes    ****to use both cores and have more threads look at my git****
 //Arduino IDE
 
 #if CONFIGE_FREERTOS_UNICORE
